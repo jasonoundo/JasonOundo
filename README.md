@@ -3,6 +3,7 @@ Hi there, I'm Jason 👋
 An Aspiring Data Analyst
 
 🔭 I'm currently learning data analysis and building my skills in:
+
 -Excel
 - SQL
 - Data visualization - Power BI
