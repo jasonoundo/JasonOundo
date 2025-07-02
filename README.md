@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi there, I'm Jason 👋
 
-<!--
-**jasonoundo/JasonOundo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An Aspiring Data Analyst
 
-Here are some ideas to get you started:
+🔭 I'm currently learning data analysis and building my skills in:
+-Excel
+- SQL
+- Data visualization - Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently focusing on: SQL queries and data cleaning techniques, data vusialisation in Power BI
+
+👯 I'm looking to collaborate on beginner-friendly data analysis projects
+
+💬 Ask me about: beginner SQL
+
+📫 How to reach me: jasonoundo@gmail.com
+
+⚡ Fun fact: I am also a Graduate Quantity Surveyor!
