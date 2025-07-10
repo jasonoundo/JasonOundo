@@ -16,7 +16,7 @@
 
 **📫 How to reach me:** jasonoundo@gmail.com
 
-⚡ Fun fact: I am also a Graduate Quantity Surveyor!
+**⚡ Fun fact:** I am also a Graduate Quantity Surveyor!
 
 **Technical Skills:**
 
